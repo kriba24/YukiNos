@@ -5,7 +5,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Repository Layout
 
 The repo has two levels:
-- `/` — root workspace with only a `geist` font dependency and `node_modules`
 - `/yukinos/` — the actual Next.js application (work here for all app changes)
 
 All development commands should be run from inside the `yukinos/` directory.
